@@ -1,7 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h1 align="center">I'm JiMeow</h1>
-
-### Passion in game development
+<h3 align="center">A passionate GameDeveloper</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical)
 
