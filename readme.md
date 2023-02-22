@@ -2,9 +2,9 @@
 <h1 align="center">I'm JiMeow</h1>
 <h3 align="center">A passionate GameDeveloper</h3>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" style={color:white} Languages and Tools:</h3>
 <p align="left"> 
-<img style={color:white} src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
