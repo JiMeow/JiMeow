@@ -2,6 +2,7 @@
 <h1 align="center">I'm JiMeow</h1>
 <h3 align="center">A passionate GameDeveloper</h3>
 
+<br>
 <h3 align="left"> Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg#gh-light-mode-only" alt="unity" width="40" height="40"/>
@@ -16,6 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="unity" width="40" height="40"/>
 <img src="github.png" alt="github" width="40" height="40"/>
 
+<br>
 <h3 align="left"> Contact Me:</h3>
 <a href="https://www.linkedin.com/in/JiMeow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
@@ -33,13 +35,14 @@
     <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
 </a>
 
+<br>
 <h3 align="left"> Lastest Projects:</h3>
 <p align="center"> 
     <a href="https://cat-adventure.vercel.app/" >
         <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
     </a>
 </p>
-
+<br>
 <h3 align="left"> Profile Stuff:</h3>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical" alt="JiMeow" />
 
