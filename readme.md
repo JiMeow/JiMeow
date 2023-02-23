@@ -36,9 +36,6 @@
 <br/>
 <br/>
 <p align="center">
-    <img src="CatAdventureMenu.png" alt="CatAdventure" width="900"/>
-</p>
-<p align="center">
     <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
 </p>
 
