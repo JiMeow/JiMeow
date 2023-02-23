@@ -34,7 +34,7 @@
 </a>
 
 
-<img scr="CatGameStill2.png" alt="CatAdventure"/>
+<img src="CatGameStill2.png" alt="CatAdventure"/>
 
 <h3></h3>
 
