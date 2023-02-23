@@ -22,8 +22,7 @@
     <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="40" height="40"/>
   </a>
 
-<a href="https://www.facebook.com/profile.php?id=100002980307173" target="_blank"><i
-                                class="fa-brands fa-facebook"></i></a>
+<a href="https://www.facebook.com/profile.php?id=100002980307173" target="_blank"><h1>hi</h1></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical)
 
