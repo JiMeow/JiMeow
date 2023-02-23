@@ -33,8 +33,11 @@
     <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
 </a>
 
-
-<img align="center" src="CatGameStill2.png" alt="CatAdventure" width="1000"/>
+<br/>
+<br/>
+<p align="center">
+    <img src="CatAdventureMenu.png" alt="CatAdventure" width="900"/>
+</p>
 
 <h3></h3>
 
