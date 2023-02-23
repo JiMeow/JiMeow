@@ -33,8 +33,7 @@
     <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
 </a>
 
-<br/>
-<br/>
+<h3 align="left"> Lastest Projects:</h3>
 <p align="center"> 
     <a href="https://cat-adventure.vercel.app/" >
         <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
