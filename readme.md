@@ -35,9 +35,9 @@
 
 <br/>
 <br/>
-<p align="center">
+<a href="https://cat-adventure.vercel.app/" align="center">
     <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
-</p>
+</a>
 
 <h3></h3>
 
