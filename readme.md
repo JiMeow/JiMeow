@@ -5,7 +5,7 @@
 <h3 align="left"> Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg#gh-light-mode-only" alt="unity" width="40" height="40"/>
-<img src="62e131b97fe3599fdd46ecb1.png#gh-dark-mode-only" alt="unity" width="40" height="40"/>
+<img src="62e131b97fe3599fdd46ecb1.png#gh-dark-mode-only" alt="unity" width="75" height="75"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
