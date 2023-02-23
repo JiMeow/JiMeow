@@ -16,10 +16,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="unity" width="40" height="40"/>
 <img src="github.png" alt="github" width="40" height="40"/>
 
-<h3 align="left"> Contact Me:</h3>
-<a href="https://linktr.ee/jimeow" target="_blank" rel="noreferrer"> 
-  <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="40" height="40"/>
-</a>
+<h3 align="left"> Contact Me:
+  <a href="https://linktr.ee/jimeow" target="_blank" rel="noreferrer"> 
+    <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="40" height="40"/>
+  </a>
+</h3>
   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical)
