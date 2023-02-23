@@ -19,7 +19,7 @@
 <h3 align="left"> Contact Me:</h3>
 
 <a href="https://linktr.ee/jimeow"> 
-    <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="35" height="35"/>
+    <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
 </a>
 <a href="https://www.linkedin.com/in/JiMeow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
