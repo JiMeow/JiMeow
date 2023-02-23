@@ -39,7 +39,6 @@
     </a>
 </p>
 
-<br>
 <h3 align="left"> Another Projects:</h3>
 <a href="https://jimeow.itch.io/"> 
     <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
