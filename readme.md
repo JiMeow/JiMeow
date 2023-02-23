@@ -17,20 +17,18 @@
 <img src="github.png" alt="github" width="40" height="40"/>
 
 <h3 align="left"> Contact Me:</h3>
-
 <a href="https://linktr.ee/jimeow"> 
     <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
 </a>
 <a href="https://www.linkedin.com/in/JiMeow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
-
 <a href="https://jimeow.itch.io/"> 
     <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
 </a>
 
 
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMeow&hide=Shaderlab,Tex,ASP.net,HLSL&theme=dark&layout=compact" alt="JiMeow" /></p
