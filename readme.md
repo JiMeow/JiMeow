@@ -1,6 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h1 align="center">I'm JiMeow</h1>
-<h3 align="center">A passionate GameDeveloper</h3>
+<h3 align="center" class="red">A passionate GameDeveloper</h3>
+<h3 align="center" > <a href="https://jimeow.vercel.app/">My Portfolio </a></h3>
+
 
 <br>
 <h3 align="left"> Languages and Tools:</h3>
@@ -30,7 +32,15 @@
 </a>
 
 <br>
-<h3 align="left"> Projects:</h3>
+<h3 align="left"> Lastest Projects:</h3>
+<p align="center"> 
+    <a href="https://cat-adventure.vercel.app/" >
+        <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
+    </a>
+</p>
+
+<br>
+<h3 align="left"> Another Projects:</h3>
 <a href="https://jimeow.itch.io/"> 
     <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
 </a>
@@ -38,13 +48,6 @@
     <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
 </a>
 
-<br>
-<h3 align="left"> Lastest Projects:</h3>
-<p align="center"> 
-    <a href="https://cat-adventure.vercel.app/" >
-        <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
-    </a>
-</p>
 <br>
 <h3 align="left"> Profile Stuff:</h3>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical" alt="JiMeow" />
