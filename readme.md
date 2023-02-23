@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="unity" width="40" height="40"/>
-<img src="github.svg" alt="github" width="40" height="40"/>
+<img src="github.png" alt="github" width="40" height="40"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical)
 
