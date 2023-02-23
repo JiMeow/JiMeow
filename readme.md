@@ -34,6 +34,8 @@
 </a>
 
 
+<img scr="CatGameStill2.png" alt="CatAdventure"/>
+
 <h3></h3>
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical" alt="JiMeow" />
