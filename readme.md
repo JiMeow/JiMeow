@@ -36,6 +36,6 @@
 
 <h3></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical)
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical" alt="JiMeow" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMeow&hide=Shaderlab,Tex,ASP.net,HLSL&theme=dark&layout=compact" alt="JiMeow" />
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMeow&hide=Shaderlab,Tex,ASP.net,HLSL&theme=dark&layout=compact" alt="JiMeow" />
