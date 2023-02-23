@@ -5,8 +5,7 @@
 <h3 align="left"> Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg#gh-light-mode-only" alt="unity" width="40" height="40"/>
-<img src="62e131b97fe3599fdd46ecb1.png#gh-dark-mode-only" alt="unity" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+<img src="unity-black-theme.jpg#gh-dark-mode-only" alt="unity" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -15,7 +14,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="unity" width="40" height="40"/>
-  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMeow&hide=Shaderlab,Tex,ASP.net,HLSL&theme=dark&layout=compact" alt="JiMeow" /></p
