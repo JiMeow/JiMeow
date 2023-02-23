@@ -22,14 +22,17 @@
 <a href="https://www.linkedin.com/in/JiMeow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
-<a href="https://jimeow.itch.io/"> 
-    <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
-</a>
 <a href="https://www.facebook.com/profile.php?id=100002980307173"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
 </a>
 <a href="https://www.instagram.com/ixq_jrt/"> 
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instargram" width="40" height="40"/>
+</a>
+
+<br>
+<h3 align="left"> Projects:</h3>
+<a href="https://jimeow.itch.io/"> 
+    <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
 </a>
 <a href="https://linktr.ee/jimeow"> 
     <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
