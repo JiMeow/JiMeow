@@ -34,7 +34,7 @@
 </a>
 
 
-<img align="center" src="CatGameStill2.png" alt="CatAdventure" width="1600" height="900"/>
+<img align="center" src="CatGameStill2.png" alt="CatAdventure" width="1600"/>
 
 <h3></h3>
 
