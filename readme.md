@@ -26,6 +26,12 @@
 <a href="https://jimeow.itch.io/"> 
     <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
 </a>
+<a href="https://www.facebook.com/profile.php?id=100002980307173"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/ixq_jrt/"> 
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instargram" width="40" height="40"/>
+</a>
 
 <h3></h3>
 
