@@ -32,7 +32,7 @@
 </a>
 
 <br>
-<h3 align="left"> Lastest Projects:</h3>
+<h3 align="left"> Most Recent Project:</h3>
 <p align="center"> 
     <a href="https://cat-adventure.vercel.app/" >
         <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
