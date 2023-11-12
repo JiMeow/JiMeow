@@ -1,7 +1,7 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h1 align="center">I'm JiMeow</h1>
-<h3 align="center" class="red">A passionate GameDeveloper</h3>
-<h3 align="center" > <a href="https://jimeow.vercel.app/">My Portfolio </a></h3>
+<h3 align="center" class="red">A passionate Developer</h3>
+<h3 align="center" > <a href="https://jimeow-portfolio.vercel.app">My Portfolio </a></h3>
 
 
 <br>
