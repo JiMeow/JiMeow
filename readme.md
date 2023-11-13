@@ -5,22 +5,45 @@
 
 
 <br>
-<h3 align="left"> Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg#gh-light-mode-only" alt="unity" width="40" height="40"/>
-<img src="unity-black-theme.png#gh-dark-mode-only#gh-dark-mode-only" alt="unity" width="33" height="38"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="unity" width="40" height="40"/>
-<img src="github.png" alt="github" width="40" height="40"/>
+<div style="display: flex; flex-direction: column;">
+    <h3 style="">Game Development:</h3>
+    <div style="display: flex; gap: 8px; margin-left: 16px;">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg#gh-light-mode-only" alt="unity" width="40" height="40"/>
+        <img src="unity-black-theme.png#gh-dark-mode-only#gh-dark-mode-only" alt="unity" width="33" height="38"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+    </div>
+    <h3 style="">Website Development:</h3>
+    <div style="display: flex; gap: 8px; margin-left: 16px;">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascripts" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescripts" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+    </div>
+    <h3 style="">Programming Language:</h3>
+    <div style="display: flex; gap: 8px; margin-left: 16px;">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascripts" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" alt="javascripts" width="40" height="40"/>
+    </div>
+</div>
 
-<br>
 <h3 align="left"> Contact Me:</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/JiMeow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
@@ -40,6 +63,7 @@
 </p>
 
 <h3 align="left"> Another Projects:</h3>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://jimeow.itch.io/"> 
     <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
 </a>
@@ -50,5 +74,4 @@
 <br>
 <h3 align="left"> Profile Stuff:</h3>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical" alt="JiMeow" />
-
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMeow&hide=Shaderlab,Tex,ASP.net,HLSL&theme=dark&layout=compact" alt="JiMeow" />
