@@ -55,8 +55,18 @@
 </a>
 
 <br>
-<h3 align="left"> Most Recent Project:</h3>
-<p align="center"> 
+<h3 align="left"> Most WebDev Recent Project:</h3>
+<p> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://tips-meow.vercel.app/" >
+        <img src="TipsGif.gif" alt="Tips" height="400"/>
+    </a>
+</p>
+
+<br>
+<h3 align="left"> Most GameDev Recent Project:</h3>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://cat-adventure.vercel.app/" >
         <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
     </a>
