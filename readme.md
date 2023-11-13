@@ -59,7 +59,7 @@
 <p> 
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://tips-meow.vercel.app/" >
-        <img src="TipsGif.gif" alt="Tips" height="400"/>
+        <img src="TipsGif2.gif" alt="Tips" height="400"/>
     </a>
 </p>
 
