@@ -86,3 +86,9 @@
 <h3 align="left"> Profile Stuff:</h3>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api?username=JiMeow&show_icons=true&theme=radical" alt="JiMeow" />
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiMeow&hide=Shaderlab,Tex,ASP.net,HLSL&theme=dark&layout=compact" alt="JiMeow" />
+
+<h2></h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JiMeow&column=5&margin-w=15&margin-h=15&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
