@@ -1,5 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-<h1 align="center">I'm JiMeow</h1>
+<h1 align="center" item="center">I'm JiMeow
+<a href="https://linktr.ee/jimeow"> 
+    <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="32" height="32"/>
+</a></h1>
+
 <h3 align="center" class="red">A passionate Developer</h3>
 <h3 align="center" > <a href="https://jimeow-portfolio.vercel.app">My Portfolio </a></h3>
 
@@ -56,6 +60,15 @@
 </a>
 
 <br>
+<h3 align="left"> MVP:</h3>
+<p> 
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://meeorder-frontend.vercel.app" >
+        <img src="meeorder.gif" alt="Meeorder" height="400"/>
+    </a>
+</p>
+
+<br>
 <h3 align="left"> Most WebDev Recent Project:</h3>
 <p> 
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -72,15 +85,6 @@
         <img src="CatAdventure.gif" alt="CatAdventure" width="900"/>
     </a>
 </p>
-
-<h3 align="left"> Another Projects:</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://jimeow.itch.io/"> 
-    <img src="itch-io.svg" alt="itchiio" width="40" height="40"/>
-</a>
-<a href="https://linktr.ee/jimeow"> 
-    <img src="https://assets.production.linktr.ee/a8fffeb2b124e17b010e3b9a85996b6e85334b56/favicon/apple-icon-180x180.png" alt="linktree" width="38" height="38"/>
-</a>
 
 <br>
 <h3 align="left"> Profile Stuff:</h3>
