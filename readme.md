@@ -15,41 +15,83 @@
         &nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg#gh-light-mode-only" alt="unity" width="40" height="40"/>
         <img src="unity-black-theme.png#gh-dark-mode-only#gh-dark-mode-only" alt="unity" width="33" height="38"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+        </a>
+        <a href="https://docs.python.org/3/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://git-scm.com/doc">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+        </a>
     </div>
     <h3 style="">Website Development:</h3>
     <div style="display: flex; gap: 8px; margin-left: 16px;">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascripts" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescripts" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        </a>
+        <a href="https://www.typescriptlang.org/docs/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        </a>
+        <a href="https://react.dev/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+        </a>
+        <a href="https://nextjs.org/docs">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+        </a>
+        <a href="https://v2.tailwindcss.com/docs">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+        </a>
+        <a href="https://nodejs.org/en/docs">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+        </a>
+        <a href="https://classic.yarnpkg.com/lang/en/docs/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+        </a>
+        <a href="https://www.mongodb.com/cloud/atlas/lp/compare-mongodb-vs-documentdb?utm_content=rlsapostreg&utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general_retarget-brand-postreg_gic-null_apac-all_ps-all_desktop_eng_lead&utm_term=&utm_medium=cpc_paid_search&utm_ad=&utm_ad_campaign_id=14412646494&adgroup=131761134852&cq_cmp=14412646494&gad_source=1&gclid=CjwKCAiAvJarBhA1EiwAGgZl0KQlFxWIQoJmtxcGbhuxQRRQwUWyChH5_YNJ6Ue22VR2t-fywLgFJBoCv_cQAvD_BwE">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        </a>
+        <a href="https://git-scm.com/doc">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+        </a>
     </div>
     <h3 style="">Programming Language:</h3>
     <div style="display: flex; gap: 8px; margin-left: 16px;">
         &nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascripts" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescripts" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" alt="javascripts" width="40" height="40"/>
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+        </a>
+        <a href="https://devdocs.io/c/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+        </a>
+        <a href="https://devdocs.io/cpp/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+        </a>
+        <a href="https://docs.python.org/3/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        </a>
+        <a href="https://www.typescriptlang.org/docs/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        </a>
+        <a href="https://go.dev/doc/">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/go/go-original-wordmark.svg" alt="golang" width="40" height="40"/>
+        </a>
     </div>
 </div>
 
 <h3 align="left"> Contact Me:</h3>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/JiMeow"> 
+<a href="https://www.linkedin.com/in/JiMeow" target=”_blank”> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100002980307173"> 
